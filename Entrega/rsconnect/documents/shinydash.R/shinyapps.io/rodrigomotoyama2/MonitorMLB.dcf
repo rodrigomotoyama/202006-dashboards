@@ -1,0 +1,13 @@
+name: MonitorMLB
+title: MonitorMLB
+username:
+account: rodrigomotoyama2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2563299
+bundleId: 3384073
+url: https://rodrigomotoyama2.shinyapps.io/MonitorMLB/
+when: 1594603613.49251
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: antigo_test.R|estats.csv|logo3.png|MLBLogo.jpg|MLBLogo.png|Planilha sem título - Página1.csv|ScriptDB.R|testlogoheader.R

@@ -1,0 +1,53 @@
+nome,significado,tradução livre,definição
+season,season,temporada,ano que foi computado
+name,name,nome,nome
+team,team,time,time
+g,games,jogos,número de jogos. Jogos onde o jogador começa no banco e entra como substituto são contabilizados
+pa,Plate apperance,Aparição no bastão,número de vezes que o jogador entrou para rebater
+hr,Home run,Home run,"Rebatida que cai fora do campo, mas em território válido"
+r,Runs,Corridas,Corridas anotadas
+rbi,Runs batted in,Corridas impulsionadas,Número de corridas que o jogador impulsionou por mérito próprio
+sb,Stolen bases,Bases roubadas,Número de roubo de bases. Roubo de base é quando o jogador que já estava em um base consegue se mover para a próxima sem interferencia do rebatedor
+bb_percent,,,
+k_percent,,,
+iso,,,
+babip,,,
+avg,,,
+obp,,,
+slg,,,
+w_oba,,,
+w_rc,,,
+bs_r,,,
+off,,,
+def,,,
+war,,,
+playerid,,,
+ab,,,
+h,,,
+x1b,,,
+x2b,,,
+x3b,,,
+bb,,,
+ibb,,,
+so,,,
+hbp,,,
+sf,,,
+sh,,,
+gdp,,,
+cs,,,
+gb_fb,,,
+ld_percent,,,
+gb_percent,,,
+fb_percent,,,
+iffb_percent,,,
+hr_fb,,,
+ifh,,,
+ifh_percent,,,
+buh,,,
+buh_percent,,,
+pull_percent,,,
+cent_percent,,,
+oppo_percent,,,
+soft_percent,,,
+med_percent,,,
+hard_percent,,,

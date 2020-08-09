@@ -1,0 +1,13 @@
+name: exercicios
+title: exercicios
+username:
+account: rodrigomotoyama
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2512543
+bundleId: 3324539
+url: https://rodrigomotoyama.shinyapps.io/exercicios/
+when: 1593309744.90983
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 16-shinydashboard-elementos.R|atividade4sideBarLayout.R|Exercicio1.R|variasop.R|Exercicio1/DESCRIPTION|Exercicio1/Exercicio1.R|Exercicio1/rsconnect/documents/Exercicio1.R/shinyapps.io/rodrigomotoyama/Exercicio1.dcf|Exercício2/DESCRIPTION|Exercício2/exercicio2.R|Exercício2/rsconnect/documents/exercicio2.R/shinyapps.io/rodrigomotoyama/exercicio2.dcf|Exercício3/DESCRIPTION|Exercício3/exercicio3.R|Exercício3/rsconnect/documents/exercicio3.R/shinyapps.io/rodrigomotoyama/exercicio3.dcf|explorandoInputs/explorandoInputs.R|explorandoInputs/rsconnect/documents/explorandoInputs.R/shinyapps.io/rodrigomotoyama/explorandoInputs.dcf|segundoApp/meuSegundoShinyApp.R|segundoApp/rsconnect/documents/meuSegundoShinyApp.R/shinyapps.io/rodrigomotoyama/segundoApp.dcf|trabalhandoComDatas/DESCRIPTION|trabalhandoComDatas/trabalhandocomdatas.html|trabalhandoComDatas/trabalhandocomdatas.R|trabalhandoComDatas/rsconnect/documents/trabalhandocomdatas.R/shinyapps.io/rodrigomotoyama/trabalhandoComDatas.dcf

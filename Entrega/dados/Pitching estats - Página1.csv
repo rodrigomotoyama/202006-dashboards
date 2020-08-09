@@ -1,0 +1,53 @@
+estat,significado,tradução livre,definição,link1
+season,season,temporada,ano que foi computado,
+name,name,nome,Nome do Jogador,
+team,team,time,Nome do time,
+w,Win,Vitória,Número de vezes que um arremessador foi classificado como vencedor do jogo,
+l,Loss,Derrota,Número de vezes que um arremessador foi classificado como derrotado do jogo,
+sv,Save,Save,Um save acontece quando um arremessador enfrenta o último rebatedor do jogo com uma liderança de menos de 3 corridas,
+hld,Hold,Hold,Um hold acontece quando um arremessador que entra no meio do jogo não leva a virada,
+bs,Blown save,Save perdido,Um bs ocorre quando o arremessador que entra para conseguir o save leva o empate ou a virada,https://www.youtube.com/watch?v=mAVz2cpKDKw
+g,Games,Jogos arremessados,Jogos que um arremessador participou como arremessador,
+gs,Games started,Jogos iniciados,Um jogo iniciado é quando o arremessador começa o jogo arremessando,
+cg,Complete game,Jogo completo,Um arremessador consegue um jogo completo quando ele arremessa todas as entradas que seu time joga,
+sh_o,Shutouts,Shutouts,Número de jogos completos que um arremessador conseguiu sem ceder corridas,
+ip,Innings pitched,Entradas arremessadas,"Número de entradas que um arremessadas (como cada entrada possui 3 eliminições, cada eliminação equivale à 0.1 entrada e 0.3 entrada = 1 entrada)",
+ip_per_gs,Innings pitched per games started,Entradas arremessadas por jogo iniciado,Média da razão entre o total de entradas arremessadas e o total de jogos iniciados no ano (ip/gs),
+h,Hits,Rebatidas válidas,Número de rebatidas válidas cedidas,https://www.youtube.com/watch?v=8xY4bL3m3AM
+r,Runs,Corridas,"Corridas cedidas, não necessariamente merecidas",
+er,Earned runs,Corridas merecidas,"Corridas que acontecem ""somente"" por culpa do arremessador",
+hr,Home runs,Home runs,Número de home runs cedidos,https://www.youtube.com/watch?v=QJXYJxjac3U
+bb,base on balls,Bases por bola,Um rebatedor ganha uma base por bola quando o arremessador arremessa 4 bolas fora da zona de strike,
+ibb,intentional base on balls,Base por bola intencional,Número de vezes que um arremessador cedeu um bb propositalmente,
+hbp,Hit by pitch,Acertado por arremesso,Quando um arremessador acertar um batedor,https://www.youtube.com/watch?v=uTPUoI-05sI
+so,Strike out,Eliminação por strikes,Quando um arremessador consegue arremessar 3 strikes sem que o rebatedor consiga rebater,https://www.youtube.com/watch?v=CCKYK91GB4E
+k_9,K/9,K/9,Razão para estimar uma média de strike outs que um arremessador conseguiria em um jogo inteiro (Número de strike outs * 9 / total de eliminações),
+bb_9,BB/9,BB/9,Razão para estimar uma média de bases por bola que um arremessador cederia em um jogo inteiro (Número de bases por bola * 9 / total de eliminações),
+hr_9,HR/9,HR/9,Razão para estimar uma média de home runs que um arremessador cederia em um jogo inteiro (Número de bases por bola * 9 / total de eliminações),
+babip,Batting average per balls in play,média de rebatidas por bolas em jogo,média de rebatidas válidas (h) por bolas rebatidas,
+lob_percent,Left on base percentage,Porcentagem de jogadores deixados em base,Porcentagem de quantos corredores o arremessador não deixou marcar durante a temporada,
+gb_percent,Ground ball percentage,Porcentagem de bolas rasteiras,Porcentagem de bolas rasteiras que o arremessador sofre durante a temporada,
+hr_fb,Home run per fly ball ratio,Razão entre número de hr e número de bolas aéreas,Razão entre número de hr e número de bolas aéreas,
+era,Earned runs average,Média de corridas merecidas,Número médio de corridas que um arremessador sofreria a cada 9 entradas arremessadas (número de corridas merecidas * 9 / ip),https://www.youtube.com/watch?v=bJMc34Do-f8
+fip,Fielding independent pitching,Desempenho independente da defesa,"Estatística mais atual que leva em conta uma defesa média. O calcula se baseia no era, então está numa escala parecida",
+war,Wins above replacement,Vitórias geradas,Número de vitória que um jogador equivale se fosse substituido por um jogador de ligas menores. ,
+k_bb,K/BB,K/BB,Razão entre o número de strike outs pelo número de bases por bola,
+k_percent,K%,K%,Razão entre número de strike outs e número de batedores enfrentados,
+bb_percent,BB%,BB%,Razão entre número de bases por bola e número de batedores enfrentados,
+avg,Batting average,Média de rebatidas,Média de rebatidas que o arremessador sofre (número de hits divido pelo número de batedores enfrentados,
+whip,Walks and hists per inning,Bases por bolas e rebatidas válidas por entrada,Razão entre número de base por bola + número de rebatidas válidas pelo número de entradas arremessadas,
+gb_fb,ground ball/fly ball,Razão entre bolas rasteiras e bolas aéreas,Razão entre bolas rasteiras e bolas aéreas,
+ld_percent,Line drive percentage,Porcentagem de rebatidas linhas,"Porcentagem de rebatidas linhas (rebatidas que não são nem rasteiras e nem aéreas, definida a partir do ângulo de saída da rebatida com relação ao chão)",
+fb_percent,Fly ball percentage,Porcentagem de rebatidas aéreas,Porcentagem de rebatidas aéreas (definida a partir do ângulo de saída da rebatida com relação ao chão),
+iffb_percent,Infield fly ball percentage,Porcentagem de rebatidas aéras no infield,Porcentagem de rebatidas aéreas na parte interna do campo,
+rs,Run support,Suporte de corridas,Número de corridas que o ataque do time do arremessador anotou durante sua aparição,
+rs_9,Run support per 9 innings,Suporte de corridas à cada 9 entradas,Número de corridas que o ataque do time do arremessador anotou durante sua aparição à cada 9 entradas ,
+balls,Balls,Bolas,Número de bolas fora da zona arremessadas,
+strikes,Strikes,Strikes,Número de strikes arremessadas,https://www.youtube.com/watch?v=CCKYK91GB4E
+pitches,Total number of pitches,Número total de arremessos,Bolas + Strikes,
+pull_percent,Pull percentage,"Porcentagem de rebatidas ""puxadas""","Porcentagem de rebatidas ""puxadas"" (Rebatidas puxadas tendem a ser mais fortes)",
+cent_percent,Center percentage,Porcentagem de rebatidas para o centro do campo,Porcentagem de rebatidas em direção ao centro do campo,
+oppo_percent,Opposite percentage,Porcentagem de rebatidas para o lado oposto,Porcentagem de rebatidas em direção ao lado oposto do campo,https://www.youtube.com/watch?v=s3kyugHt-v0
+soft_percent,Soft hit percentage,Porcentagem de rebatidas fracas,Porcentagem de rebatidas fracas (Rebatidas com baixa velocidade de saída),
+med_percent,Medium hit percentage,Porcentagem de rebatidas médias,Porcentagem de rebatidas médias (Rebatidas com velocidade de saída média),
+hard_percent,Hard hit percentage,Porcentagem de rebatidas fortes,Porcentagem de rebatidas fortes (Rebatidas com alta velocidade de saída),

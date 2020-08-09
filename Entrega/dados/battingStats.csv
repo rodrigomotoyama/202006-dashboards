@@ -1,0 +1,45 @@
+estat,significado,tradução livre,definição,link1
+season,season,temporada,ano que foi computado,
+name,name,nome,nome,
+team,team,time,time,
+g,games,jogos,número de jogos. Mesmo jogos em que o jogador começa no banco e entra como substituto são contabilizados,
+pa,Plate apperance,Aparição no bastão,número de vezes que o jogador entrou para rebater,
+bb,base on balls,Bases por bola,Um rebatedor ganha uma base por bola quando o arremessador arremessa 4 bolas fora da zona de strike,
+ibb,intentional base on balls,Base por bola intencional,Número de vezes que um rebatedor ganhou um bb propositalmente,
+hbp,Hit by pitch,Acertado por arremesso,número de vezes que um rebatedor conseguiu uma base por ter sido acertado por um arremesso,https://www.youtube.com/watch?v=uTPUoI-05sI
+sf,Sacrifice fly,Fly de sacrifício,Número de rebatidas flys de sacrificio,
+sh,Sacrifice hit,bunt de sacrificio,"Número de rebatidas de sacríficio, impulsionando um corredor",https://www.youtube.com/watch?v=g4r6yydLXTo
+ab,At bats,Aparição valida pelo bastão,número de vezer que o jogador teve um pa considerado válido (fórmula: pa - bb - hbp - ibb - sf - sh),
+h,hits,rebatida válida,Número de rebatidas válidas,https://www.youtube.com/watch?v=8xY4bL3m3AM
+x1b,single,rebatida simples,Rebatida válida onde o jogador alcança a primeira base,https://www.youtube.com/watch?v=8xY4bL3m3AM
+x2b,double,rebatida dupla,Rebatida válida onde o jogador alcança a segunda base,https://www.youtube.com/watch?v=Sp8zVt0oYvA
+x3b,triple,rebatida tripla,Rebatida válida onde o jogador alcança a terceira base,https://www.youtube.com/watch?v=1qsVgXhU1p8
+hr,Home run,Home run,"Rebatida que cai fora do campo, mas em território válido. Nessa rebatida o rebatedor e todos os jogadores em base anotam um ponto cada.",https://www.youtube.com/watch?v=QJXYJxjac3U
+r,Runs,Corridas,Corridas anotadas,
+rbi,Runs batted in,Corridas impulsionadas,Número de corridas que o jogador impulsionou por mérito próprio,
+sb,Stolen bases,Bases roubadas,Número de roubo de bases. Roubo de base é quando o jogador que já estava em um base consegue se mover para a próxima sem interferencia do rebatedor,https://www.youtube.com/watch?v=6cix6xdTZbw
+so,Strike out,Eliminação por strikes,Número de eliminações por strike dos rebatedores,https://www.youtube.com/watch?v=69v4kqlOePQ
+bb_percent,BB%,Porcentagem de bases por bola,razão entre o número de bb por pa (bb/pa),
+k_percent,so%,porcentagem de strike outs,razão entre o número de so por pa,
+avg,Batting average,média de rebatidas,razão entre número de rebatidas válidas por aparições validas no bastão (h/ab),
+babip,Batting average per balls in play,média de rebatidas por bolas em jogo,média de rebatidas válidas (h) por bolas rebatidas,
+obp,On base percentage,média de chegadas em base,"razão entre número de vezes que um jogador chega em base a salvo, dividido pelo numero de aparições no bastão ((h+bb+hbp)/pa)",
+slg,Slugging,Potência,"""média ponderada"" entre número de rebatidas válidas por aparições validas no bastão ((x1b + 2*x2b + 3*x3b + 4*x4b)/ab)",
+w_oba,Weighted on base average,média ponderada de chegadas em base ,"Funciona como uma média ponderada para OBP, com pesos para cada ação baseados numa matriz de corridas que não veremos aqui",
+w_rc,weightes runs created,corridas criadas com pesos,"Estimador quanto peso um jogador teve em uma corrida, também baseado na matriz de corridas",
+war,wins above replacement,Vitórias geradas,Número de vitória que um jogador equivale se fosse substituido por um jogador de ligas menores. ,
+gdp,ground into double play,rebatida de dois outs,Rebatida que gera duas eliminações simultaneas,https://www.youtube.com/watch?v=L5GW5K0P4iU
+cs,caught stealing,Eliminado por roubo de base,Eliminação que acontece quando um jogador tenta avançar de uma base para outra sem uma rebatida,https://www.youtube.com/watch?v=lfRK3QBiaM0
+gb_fb,ground ball/fly ball,Razão entre bolas rasteiras e bolas aéreas,Razão entre bolas rasteiras e bolas aéreas,
+ld_percent,Line drive percentage,Porcentagem de rebatidas linhas,"Porcentagem de rebatidas linhas (rebatidas que não são nem rasteiras e nem aéreas, definida a partir do ângulo de saída da rebatida com relação ao chão)",https://www.youtube.com/watch?v=hlF9b346K94
+gb_percent,Ground ball percentage,Porcentagem de rebatidas rasteiras,Porcentagem de rebatidas rasteiras,
+fb_percent,Fly ball percentage,Porcentagem de rebatidas aéreas,Porcentagem de rebatidas aéreas (definida a partir do ângulo de saída da rebatida com relação ao chão),
+hr_fb,Home run per fly ball ratio,Razão entre número de hr e número de bolas aéreas,Razão entre número de hr e número de bolas aéreas,
+ifh,Infield hit,Rebatida interna válida,Rebatida válida que não passa dos defensores internos,https://www.youtube.com/watch?v=o-usjbW1--U
+ifh_percent,Infield hit percentage,Porcentagem de rebatidas internas válidas,Porcentagem de rebatidas internas válidas (ifh/h),
+pull_percent,Pull percentage,"Porcentagem de rebatidas ""puxadas""","Porcentagem de rebatidas ""puxadas"" (Rebatidas puxadas tendem a ser mais fortes)",
+cent_percent,Center percentage,Porcentagem de rebatidas para o centro do campo,Porcentagem de rebatidas em direção ao centro do campo,
+oppo_percent,Opposite percentage,Porcentagem de rebatidas para o lado oposto,Porcentagem de rebatidas em direção ao lado oposto do campo,https://www.youtube.com/watch?v=s3kyugHt-v0
+soft_percent,Soft hit percentage,Porcentagem de rebatidas fracas,Porcentagem de rebatidas fracas (Rebatidas com baixa velocidade de saída),
+med_percent,Medium hit percentage,Porcentagem de rebatidas médias,Porcentagem de rebatidas médias (Rebatidas com velocidade de saída média),
+hard_percent,Hard hit percentage,Porcentagem de rebatidas fortes,Porcentagem de rebatidas fortes (Rebatidas com alta velocidade de saída),

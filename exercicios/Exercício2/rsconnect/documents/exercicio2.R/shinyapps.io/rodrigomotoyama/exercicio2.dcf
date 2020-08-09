@@ -1,0 +1,12 @@
+name: exercicio2
+title: exercicio2
+username:
+account: rodrigomotoyama
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2465326
+bundleId: 3280199
+url: https://rodrigomotoyama.shinyapps.io/exercicio2/
+when: 1592361608.58968
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,13 @@
+name: exemplos
+title: exemplos
+username:
+account: rodrigomotoyama
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2459910
+bundleId: 3274723
+url: https://rodrigomotoyama.shinyapps.io/exemplos/
+when: 1592269324.57568
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 01-ola-mundo.R|02-output.R|04-hist-normal.R|05-dois-outputs.R|06-reactive.R|07-eventReactive.R|08-debug.R|09-dados.R|10-exemplo-html.html|11-gridsystem.R|12-sidebarLayout.R|13-navbarPage.R|14-shinydashboard-layout.R|15-shinydashboard-menu.R|16-shinydashboard-elementos.R|17-ui-reativa.R|18-htmlwidgets.R|19-nosso-primeiro-flexdashboard.html|19-nosso-primeiro-flexdashboard.Rmd|20-orientacao-e-tabset.html|20-orientacao-e-tabset.Rmd|21-paginas-componentes-temas.html|21-paginas-componentes-temas.Rmd|22-storyboard-htmlwidgets.html|22-storyboard-htmlwidgets.Rmd|23-flexdashboard-com-shiny.Rmd|24-exemplo-kmeans.R|shinyapps/03-output-input.R|shinyapps/DESCRIPTION
